@@ -1,5 +1,5 @@
-Primeira linha do arquivo // comentárioo da primeira linha
+Primeira linha do arquivo
 2º linha que irá conflitar
-Linha 2 para teste //comentário
+Linha 2 para teste
 
 --ADICIONAR LINHA PARA COMMIT --
