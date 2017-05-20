@@ -1,3 +1,5 @@
 Primeira linha do arquivo // coment√°rio da primeira linha
 2∫ linha que ir· conflitar
 Linha 2 para teste
+
+-- TESTANDO --
