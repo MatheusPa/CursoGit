@@ -1,1 +1,2 @@
-Arquivo para primeiro commit no Git.
+Nome: Matheus Cavalcante
+Descrição: Alterando o arquivo.
