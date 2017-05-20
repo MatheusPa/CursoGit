@@ -1,5 +1,8 @@
-Primeira linha do arquivo // coment√°rio da primeira linha
+Primeira linha do arquivo
 2∫ linha que ir· conflitar
 Linha 2 para teste
 
 -- TESTANDO --
+
+--ADICIONAR LINHA PARA COMMIT --
+
